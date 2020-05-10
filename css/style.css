@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#topbtn{
+position: fixed;
+bottom: 40px;
+right: 40px;
+font-size: 22px;
+width: 50px;
+height: 50px;
+background-color: #55acee;
+color: #eeeeee;
+border: none;
+cursor: pointer;
+text-decoration:none;
+text-align:center;
+line-height: 50px;
+transition:all 300ms ease-in-out
+}
+
+.menu li a {
+    width: auto;
+    color: #000;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 15px;
+}
+
+.dropdown-menu ul li a {
+    width: auto;
+    color: #000;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 15px;
+}
+
+.menu ul li a:hover {
+    background-color: #316DC3;
+    color: #FFFFFF;
+    border-radius: 50px;
+    border: 10px;
+    
+}
+
+ li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.head-button a{
+padding: 2px;
+}
+.header .logo img{
+    width: 200px;
+}
+ .menu .button {
+    border-radius: 5;
+    /* border-radius: important; */
+  }
+  .separator {
+    width: 40px;
+    height: 3px;
+    background-color: #427900;
+    display: block;
+    margin-left: 400px;
+    
+    
+}
+.separator2 {
+    width: 50px;
+    height: 2px;
+    background-color:#427900;
+    display: block;
+/*    
+    margin-right: 470px; */
+  
+}
+.separator3 {
+    width: 100px;
+    height: 1px;
+    background-color:#cacaca;
+    display: block;
+/*    
+    margin-right: 470px; */
+  
+}
+.intro {
+    text-align: center;
+}
+
+.second-text {
+    color: #8BC443;
+}
+/* .counter .container .row .col .daily .img{
+    width: 50px;
+} */
+
+.daily .span{
+    font-size: 18px;
+}
+.text-themeout-colored{
+    color:#427900 !important;
+}
+.font-weight-600{
+    font-weight: 600 !important;
+}
+.social a{
+    color: white !important;
+}
+.social2 div {
+margin: 0px 5px;
+width:30px;
+height: 30px;
+background: #eeeeee;
+text-align: center;
+line-height: 30px;
+border-radius: 50%;
+color: #ffffff;
+transition:all 300ms ease-in-out;
+
+}
+div.fa-facebook{
+    background: #5252b8;
+}
+div.fa-facebook:hover{
+    color: #5252b8;
+    background: #ffffff;
+}
+div.fa-twitter{
+    background: #55acee;
+}
+div.fa-twitter:hover{
+    color: #55acee;
+    background: #ffffff;
+}
+div.fa-instagram{
+    background: #e4405f;
+}
+div.fa-instagram:hover{
+    color: #e4405f;
+    background: #ffffff;
+}
+div.fa-youtube{
+    background: #cd201f;
+}
+div.fa-youtube:hover{
+    color: #cd201f;
+    background: #ffffff;
+}
+div.fa-globe{
+    color: #427900;
+}
+div.fa-phone{
+    color: #427900;
+}
+div.fa-envelope-o{
+    color: #427900;
+}
+.marq{
+    height: 50px !important;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
