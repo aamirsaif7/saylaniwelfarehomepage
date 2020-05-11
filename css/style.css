@@ -152,6 +152,14 @@ div.fa-youtube:hover{
     color: #cd201f;
     background: #ffffff;
 }
+}
+div.fa-whatsapp{
+    background: #427900;
+}
+div.fa-whatsapp:hover{
+    color: #427900;
+    background: #ffffff;
+}
 div.fa-globe{
     color: #427900;
 }
